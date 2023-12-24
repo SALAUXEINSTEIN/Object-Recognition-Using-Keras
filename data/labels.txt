@@ -1,0 +1,4 @@
+0 Default
+1 Unburnt cookies
+2 Burnt cookies
+3 Biro
